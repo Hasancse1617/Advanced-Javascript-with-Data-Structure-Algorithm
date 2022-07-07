@@ -18,7 +18,6 @@ function array_same_square_array(arr1, arr2){
         }
         console.log(arr2List[index ** 2])
     }
-    
     // console.log(arr1List)
     // console.log(arr2List)
 }
